@@ -1,0 +1,10 @@
+Clone ``npm install`` 
+
+You need to run both ``npm run dev`` for svelte app.
+
+This is a variation of https://github.com/peopledrivemecrazy/svelte-yoga-dadjoke.
+
+
+This project uses this https://us-central1-dadsofunny.cloudfunctions.net/DadJokes/random/jokes from user [@KegenGuyll](https://github.com/KegenGuyll)
+
+Read the article here https://dev.to/shriji/svelte-dad-jokes-graphql-yoga-433i
