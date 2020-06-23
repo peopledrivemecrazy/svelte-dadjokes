@@ -17,6 +17,7 @@
 
 	function handleKeydown(event) {
 		keyCode = event.keyCode;
+		event.preventDefault();
 		if (keyCode == 13 || keyCode == 32) {
 			fetchJoke()
 		}
